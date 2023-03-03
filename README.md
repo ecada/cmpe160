@@ -1,2 +1,2 @@
-# cmpe160
-CMPE 160 Introduction to Object Oriented Programming
+# CMPE160 Spring 2023
+Introduction to Object Oriented Programming
