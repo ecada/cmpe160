@@ -1,0 +1,9 @@
+8
+Ece,44.0
+Suzan,62.0
+Ada,30.0
+Hanaa,92.0
+Deniz,97.0
+Yasin,78.0
+Isil Su,90.0
+Ilgaz,83.0
